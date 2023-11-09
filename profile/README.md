@@ -1,4 +1,8 @@
-Global.health is an ambitious initiative to deliver a cutting-edge, secure data and analytics platform to support pandemic and epidemic response.
+Global.health is a transformative initiative dedicated to creating a state-of-the-art, secure data and analytics platform that empowers pandemic and epidemic research and supports equitable public health decision-making worldwide.
+
+We build networks, software, and analytical tools that are open-source, easily deployable, and co-designed by our global teams.
+
+Our mission is to enable rapid sharing of trusted public health data to advance the response to infectious diseases.
 
 You can find existing projects below.
 
@@ -8,8 +12,7 @@ New projects can be suggested via [our discussions page](https://github.com/orgs
 
 If you want to contribute to Global.health please see our [Contribution guidelines](https://github.com/globaldothealth/.github/blob/main/CONTRIBUTING.md) and [Code of Conduct](https://github.com/globaldothealth/.github/blob/main/CODE_OF_CONDUCT.md).
 
-Global.health was founded in January 2020. G.h work is supported in part by funding from the [Rockefeller Foundation](https://www.rockefellerfoundation.org/), [Oxford Martin School](https://www.oxfordmartin.ox.ac.uk/), [Google.org](https://www.google.org/), and the [Wellcome Trust](https://wellcome.org/).
-
+Global.health contributors work across academic institutions, technology companies, and public health institutions with funding from the [Rockefeller Foundation](https://www.rockefellerfoundation.org/), [Oxford Martin School](https://www.oxfordmartin.ox.ac.uk/), [Google.org](https://www.google.org/), and the [Wellcome Trust](https://wellcome.org/).
 
 <!--
 
